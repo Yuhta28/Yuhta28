@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning AWS
+- 🤔 I’m looking for help with container service
+- 📫 How to reach me: [@Y0u281](https://twitter.com/Y0u281)
+
 <!--
 **Yuhta28/Yuhta28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
