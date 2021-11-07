@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on IT infrastructure operation
 - 🌱 I’m currently learning AWS
 - 🤔 I’m looking for help with container service
 - 📫 How to reach me: [@Y0u281](https://twitter.com/Y0u281)
